@@ -13,6 +13,7 @@ Output Image (Skull Stripped)
 # How to run
 
 Step 1 - Getting skull stripped images
+
 As command line program
 ```
 $ python bin/deepbrain-extractor -i brain_mri.nii.gz -o ~/Desktop/output/
