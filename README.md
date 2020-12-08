@@ -1,7 +1,5 @@
 # Brain-Extraction
-Brain Skull Stripping using Deep Learning 
-
-Pretrained custom UNet model is used
+Brain Skull Stripping using Deep Learning - Pretrained custom UNet model is used
 
 Input Image (Original Image)
 
